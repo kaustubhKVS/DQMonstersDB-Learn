@@ -4,3 +4,15 @@
 [submodule "DQMonstersDB-API"]
 	path = DQMonstersDB-API
 	url = https://github.com/cmsato09/DQMonstersDB-API
+[submodule "streamlit-fastapi-model-serving"]
+	path = streamlit-fastapi-model-serving
+	url = https://github.com/davidefiocco/streamlit-fastapi-model-serving
+[submodule "langchain-streamlit-docker-template"]
+	path = langchain-streamlit-docker-template
+	url = https://github.com/amjadraza/langchain-streamlit-docker-template
+[submodule "declarai-chat-fastapi-streamlit"]
+	path = declarai-chat-fastapi-streamlit
+	url = https://github.com/matankley/declarai-chat-fastapi-streamlit.git
+[submodule "streamlit-agent"]
+	path = streamlit-agent
+	url = https://github.com/langchain-ai/streamlit-agent.git
