@@ -1,0 +1,6 @@
+[submodule "DQMonstersDB-streamlit"]
+	path = DQMonstersDB-streamlit
+	url = https://github.com/cmsato09/DQMonstersDB-streamlit.git
+[submodule "DQMonstersDB-API"]
+	path = DQMonstersDB-API
+	url = https://github.com/cmsato09/DQMonstersDB-API
